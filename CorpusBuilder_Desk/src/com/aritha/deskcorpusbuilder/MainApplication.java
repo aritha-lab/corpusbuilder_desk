@@ -9,5 +9,6 @@ public class MainApplication {
 		agileGreeting.greet();
 		
 		System.out.println("Hello World Again!");
+		System.out.println("Hello World 3rd Time!");
 	}
 }
